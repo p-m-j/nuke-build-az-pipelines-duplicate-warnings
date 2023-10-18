@@ -1,0 +1,5 @@
+.nuke/temp/
+.idea/
+
+bin/
+obj/
